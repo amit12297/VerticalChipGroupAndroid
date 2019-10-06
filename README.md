@@ -1,4 +1,4 @@
-# VerticalChipGroupAndroid
+# Vertical ChipGroup Android
 Custom view Vertical Chip Group for android, lays out chips in vertical order instead of default horizontal order in ChipGroup.
 Note: Calling activity must have material theme
 
