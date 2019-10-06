@@ -1,5 +1,6 @@
 # VerticalChipGroupAndroid
-Custom view Vertical Chip Group for android, lays out chips in vertical order instead of default horizontal order in Chip Group
+Custom view Vertical Chip Group for android, lays out chips in vertical order instead of default horizontal order in ChipGroup.
+Note: Calling activity must have material theme
 
 ## Example Screenshot where rows specified = 2
 ![alt text](https://drive.google.com/uc?export=view&id=1gLJcjSA9RXORQvzOITISDfRtWFUIFaUH)
@@ -34,7 +35,7 @@ dependencies {
         app:rows="2"
         />
  ```   
- ## MainActivity.java
+ ## MainActivity.java (Must have material theme)
 ``` 
  public class MainActivity extends AppCompatActivity {
 
